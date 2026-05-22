@@ -14,7 +14,7 @@
 
 Product Manager with **15+ years** of experience taking products from concept to scale across **AEC/O, Insurance, Automotive, and Capital Markets**. Recognised with the **🏆 Certificate of Excellence 2025** by the CEO of Nemetschek Group.
 
-I work at the intersection of business strategy, engineering, and user needs — in both B2B and B2C environments. Strong practitioner of AI tools, agents, and LLMs across the product lifecycle.
+I work at the intersection of business strategy, engineering, and user needs in both B2B and B2C environments. Strong practitioner of AI tools, agents, and LLMs across the product lifecycle.
 
 ---
 
@@ -59,9 +59,9 @@ I work at the intersection of business strategy, engineering, and user needs —
 
 ## 🏆 Recognitions
 
-- 🥇 **Certificate of Excellence 2025** — CEO, Nemetschek Group
-- ⭐ **Employee of the Year** — Multiple years, Value Momentum
-- 🏅 **Best Project & Innovation Awards** — Broadridge · Ness · Value Momentum
+- 🥇 **Certificate of Excellence 2025** - CEO, Nemetschek Group
+- ⭐ **Employee of the Year** - Multiple years, Value Momentum
+- 🏅 **Best Project & Innovation Awards** - Broadridge · Ness · Value Momentum
 
 ---
 
